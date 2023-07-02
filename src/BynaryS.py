@@ -1,4 +1,4 @@
-""" Codigo de Jose Manuel Pedro Mendez, 315073120 correspondiente a la practica 02 Busquedas"""
+""" Codigo de Jose Manuel Pedro Mendez"""
 import random
 import sys
 import re

@@ -1,4 +1,4 @@
-# Search Algorithm (BS)
+# Search Algorithm (Binary Search) 
 
 ### Problem
 * Algoritmo de busqueda para resolver el siguiente problema:
@@ -23,8 +23,9 @@
 * Solo hay que ejecutar en la carpeta src:
 
 ```
-$ python3 Practice02.py k
+$ python3 BynaryS.py k
 ```
+
 * Donde k es un numero entero positivo, el cual indicara el tamaño de nuestro arreglo(el numero de elementos).
 
 
